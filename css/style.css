@@ -1,0 +1,54 @@
+.textbox{
+    width:750px;
+    font-family: Tahoma,sans-serif; 
+    line-height: 18px; 
+    font-size: 16px; 
+    height: 40px; 
+    padding: 4px 0 0 6px; 
+    border-color: gray; 
+    border-style: ridge;
+}
+
+.button{
+    font-size: 20px;
+    font-family: Tahoma,sans-serif; 
+    border-color: #220d0d;
+    background-color: grey; 
+    margin-left: 20px;
+    height: 40px;
+    color: #220d0d;
+}
+
+.fset{
+    width:900px; 
+    height: 240px; 
+    border-style:dashed; 
+    margin: 5px 225px 0px 225px;
+}
+.record{
+    font-family: Tahoma,sans-serif; 
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.dblptitle{
+    
+    color: darkslateblue;
+    font-weight: bold;
+    font-size: 18px;
+}
+.author{
+    color: grey;
+    
+}
+.journal{
+    color: green;   
+}
+.highlight{
+    color:red;
+}
+.error{
+    font-family: Tahoma,sans-serif; 
+    font-size: 20px;
+    color: darkred;
+    
+}
